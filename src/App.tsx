@@ -10,7 +10,7 @@ import '@picocss/pico/css/pico.min.css';
 
 function App() {
   return (
-    <main className="container">
+    <main className="container-fluid">
       <h1>FE CG Workshop '22</h1>
       <p>This is a workshop that showcases new features in React 18. Navigate the features and follow instructions.</p>
       <hr/>
