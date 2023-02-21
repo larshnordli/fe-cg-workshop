@@ -1,2 +1,2 @@
 # fe-cg-workshop
-Workshop for Front-end CG
+CSS 101, 22.02.2023
