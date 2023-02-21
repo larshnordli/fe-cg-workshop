@@ -1,4 +1,4 @@
-**Please attempt before reading this hint.**
+**Please attempt the exercise before reading this hint.**
 
 This exercise is tricky and is meant to show off a "quirk". If you are stuck, use the following hints:
 
