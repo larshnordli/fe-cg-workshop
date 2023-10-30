@@ -1,0 +1,14 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Playground for Cypress assignments FE CG Oct 23",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "cypress": "^13.4.0"
+  }
+}
