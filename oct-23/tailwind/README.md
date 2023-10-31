@@ -10,14 +10,7 @@ Alternatively, use [the Tailwind Playground](https://play.tailwindcss.com/).
 
 Make changes in `src/` directory when doing the assignements
 
-# TODO: Make assignments
-
-1. Utility first
-2. Hover, focus and other states
-3. Reusing styles
-4. Responsive Design
-5. Dark Mode
-6. Customizing the framework
+1. Create a "tribute site" to someone or something that you admire (person, pet, car, sports figure etc.) using Tailwind. You can write content if you want, or use "Lorem ipsum" generators. Use [Tailwind Core Concepts](https://tailwindcss.com/docs/utility-first) and docs to guide you.
 
 ## Dev environment
 
@@ -30,3 +23,4 @@ Environment is preset using the following steps from [Getting startet with Tailw
 5. Tailwind CLI is added as `npm run build-css` script, which creates `/src/output.css`, and is a "translated" version of Tailwind that `src/index.html` can work with. Some example classes are added to a heading on the HTML-page. This command will watch for changes in the `src/input.css`-file and rebuild.
 
 ## Resources
+- [Tailwind Docs](https://tailwindcss.com/docs/installation)
