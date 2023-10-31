@@ -2,7 +2,7 @@
 
 ## Getting started
 1. Run `npm install`
-2. Run `npm cypress:open` to open Cypress Launchpad to do the assignments
+2. Run `npm run cypress:open` to open Cypress Launchpad to do the assignments
 
 ## Assignments
 1. Use instructions in [Cypress Docs](https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test) to create a passing and failing test using Cypress Launchpad.
