@@ -1,0 +1,11 @@
+{
+  "name": "js-meta-frameworks",
+  "version": "1.0.0",
+  "description": "1. Research the web (and/or use [the resources](#resources)) to compile a list in a notepad doc or similar of at least five JS Meta-Frameworks including\r     - Main features and \"selling points\"\r     - How popular it is (stars on GitHub, community size, active development/releases etc.)\r     - What JS framework or technology is being used\r 2. Choose *at least one* meta-framework, and use their \"Getting started\" guide to display the compiled list in 1. Either pick one [by random](TODO: Insert random thing) or weigh your options against one another using your list.\r TODO: 3. (If server-side rendered) Hydration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
