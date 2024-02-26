@@ -7,11 +7,11 @@ These assignment aims to get you thinking about and putting green code, UI, UX a
 ### Assignment 1
 Clone this repository and enter directory `/fe-cg-green-code`. Start a local web server with the supplied example code using `npm start`.
 
-The assignment is to optimize performance/reduce emissions of this example code. Use these questions as starting points for solving this problem, but don't limit the optimization to them if you can think of other changes!
+The assignment is to optimize resources/reduce emissions of this example code. Use these questions as starting points for solving this problem, but don't limit the optimization to them if you can think of other changes!
 
 1. Can you make any changes to dependencies or imports?
 2. Can you make changes to the rendering and/or filtering algorithms?
-3. Can other frameworks/starters than Create React App be beneficial?
+3. Can other/no frameworks/starters than Create React App be beneficial?
 4. Although not (necessarily) frontend-related, what changes can be made to infrastructure, DevOps, hosting options or the like?
 5. Any features that can be implemented/removed?
 
@@ -20,7 +20,7 @@ If you do not want to take a practical approach to this problem, you are free to
 *Note* as the example application is built in "classic" client-side React executing on the end user's computer. This can be considered, but you can also "imagine" a React server-rendered environment (file size, caching etc.)
 
 ### Assignment 2
-**Check URLs with care, do not expose client data or personally identifiable information about your employer, yourself or others** Use a [CO~2~ emissions calculator](https://rootwebdesign.studio/articles/tools-for-calculating-your-websites-co2-emissions/) on your favorite and/or most visited web applications or sites to see how they perform.
+**Check URLs with care, do not expose client data or personally identifiable information about your employer, yourself or others** Use a [CO<sub>2</sub> emissions calculator](https://rootwebdesign.studio/articles/tools-for-calculating-your-websites-co2-emissions/) on your favorite and/or most visited web applications or sites to see how they perform.
 
 ### Assignment 3
 3. Identify three measures relevant to *your daily work* as a frontend developer to increase sustainability or reduce waste and emissions (internal work/client work or other type of work you do). Use the resources and/or research the web for ideas.
