@@ -23,7 +23,7 @@ If you do not want to take a practical approach to this problem, you are free to
 :warning: **Check URLs with care, do not expose client data or personally identifiable information about your employer, yourself or others** :warning: Use a [CO<sub>2</sub> emissions calculator](https://rootwebdesign.studio/articles/tools-for-calculating-your-websites-co2-emissions/) on your favorite and/or most visited web applications or sites to see how they perform.
 
 ### Assignment 3
-3. Identify three measures relevant to *your daily work* as a frontend developer to increase sustainability or reduce waste and emissions (internal work/client work or other type of work you do). Use the resources and/or research the web for ideas.
+Identify three measures relevant to *your daily work* as a frontend developer to increase sustainability or reduce waste and emissions (internal work/client work or other type of work you do). Use the resources and/or research the web for ideas.
     - Please note that measures outside of "typical" frontend/UI/UX work can be included in this list. 
 
 ## Resources/Learn more
